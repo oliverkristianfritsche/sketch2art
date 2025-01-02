@@ -1,4 +1,4 @@
-#Drawing Board
+## Drawing Board
 
 This project is an AI-powered drawing board that allows users to create sketches and generate images based on their drawings and prompts using a Stable Diffusion model.
 
