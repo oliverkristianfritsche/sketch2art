@@ -2,7 +2,7 @@
 
 This project is an AI-powered drawing board that allows users to create sketches and generate images based on their drawings and prompts using a Stable Diffusion model.
 
-![Drawing Board](backend\app\static\images\demo.png)
+![Drawing Board](backend/app/static/images/demo.png)
 
 
 ## Features
@@ -18,8 +18,8 @@ This project is an AI-powered drawing board that allows users to create sketches
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/ai-drawing-board.git
-    cd ai-drawing-board
+    git clone https://github.com/oliverkristianfritsche/sketch2art.git
+    cd sketch2art
     ```
 
 2. Create a virtual environment and activate it:
